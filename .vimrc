@@ -8,3 +8,4 @@ set number
 set hlsearch
 syntax enable
 filetype plugin indent on
+set nf=""
